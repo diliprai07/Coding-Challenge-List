@@ -1,2 +1,2 @@
-console.log("Hi all!");
-//# sourceMappingURL=hello-world.js.map
+var item = 1;
+console.log(item + " person is always waiting for you");
